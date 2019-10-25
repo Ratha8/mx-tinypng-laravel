@@ -6,7 +6,7 @@ Tinify API support with laravel
 ## Install
 
 ``` bash
-$ composer require mxrotha/ys-tinify-laravel
+$ composer require mxrotha/tinify-laravel
 ```
 
 Add this to your config/app.php, 
