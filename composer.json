@@ -1,5 +1,5 @@
 {
-  "name": "mx-rt/tinypng-laravel",
+  "name": "mxrotha/tinypng-laravel",
   "type": "library",
   "description": "Tinify API support with laravel",
   "keywords": ["tinify","tinypng", "laravel"],
@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "mx-rt\\LaravelTinify\\": "src"
+      "mxrotha\\LaravelTinify\\": "src"
     }
   },
   "minimum-stability": "stable"
