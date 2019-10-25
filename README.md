@@ -1,7 +1,7 @@
-# ysTinify-laravel
+# TinyPNG-laravel
 Tinify API support with laravel
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/yasmuru/ys-tinify-laravel.svg?style=flat-square)](https://packagist.org/packages/yasmuru/ys-tinify-laravel)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/yasmuru/ys-tinify-laravel.svg?style=flat-square)](https://packagist.org/packages/mxrotha/tinypng-laravel)
 
 ## Install
 
